@@ -1,3 +1,14 @@
+# End of Life - Repository Deprecated
+**Important Notice:** This repository is no longer actively maintained or supported. No further issues or pull requests will be considered or approved. The content provided here is for historical reference only.
+
+## Thank You
+Thank you contributors and Greenbone community. Your dedication, feedback, and contributions have been invaluable.
+
+\- SCS
+
+---
+---
+
 ![GVM Logstash Logo](https://github.com/SCS-Labs/Images/raw/main/GVM%20Logstash.png)
 
 This docker image contains logstash configured to pull data from a Greenbone Vulnerability Manager instance.
