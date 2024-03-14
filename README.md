@@ -15,7 +15,7 @@ This docker image contains logstash configured to pull data from a Greenbone Vul
 
 Must login first using
 
-```docker login docker.pkg.github.com```
+```docker login ghcr.io```
 
 Example command:
 
@@ -28,7 +28,7 @@ docker run -d \
 -e ES_USER=<Username for elasticsearch> \
 -e ES_PASSWORD=<Password for elasticsearch user> \
 --name gvm-logstash \
-docker.pkg.github.com/secure-compliance-solutions-llc/gvm-logstash/gvm-logstash:master
+ghcr.io/secure-compliance-solutions-llc/gvm-logstash/gvm-logstash:master
 ```
 
 
